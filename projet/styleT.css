@@ -1,0 +1,93 @@
+/* /* 
+/* t/* !! */
+#logo{
+    display: block;
+    margin: auto;
+    width: 100vw;
+    height: 90vh;
+}
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.nav{
+color: white;
+   background-color: darkgreen;
+  padding: 15px;
+ 
+ 
+}
+li{
+    display: inline-block;
+    margin: 10px;
+   
+}
+a{
+    color:white;
+   
+    font-size: small;
+    text-decoration: none;
+}
+a:hover{
+    color: blueviolet;
+ transition: all 0.4s ease 0s;
+}
+
+  ul{
+    padding-left: 730px;
+ 
+    position: absolute;
+transform: translateY(-5px);
+ 
+  }
+#resto{
+    display: block;
+    margin: auto;
+    padding-top:9vh ;
+    width: 90vw;
+    height: 85vh;
+}
+.publi{
+    margin-left: 50px;
+}
+#salon{
+    display: block;
+    margin: auto;
+    padding-top: 9vh;
+    width: 90vw;
+    height: 85vh;
+}
+.cont{
+    margin-left: 50px;
+    padding-bottom: 30vh;
+
+}
+footer{
+    background-color: #333;
+ padding: 100px;
+ padding-top: 41px;
+ color: white;
+}
+
+.contac{
+    padding-top: 100vh;
+    color: white;
+}
+#p{
+    /* color: white; */
+}
+.contact{
+    padding-left: 20px;
+    padding-top: 30px;
+    font-size: large;
+}
+#ul1{
+    margin: auto;
+    font-size: large;
+}
+#li1{
+    display: block;
+    margin: auto;
+}

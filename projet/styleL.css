@@ -1,0 +1,105 @@
+.img3{
+    background-image: url(logo1img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1800px;
+    height: 600px;
+    margin: 0px auto;
+    padding: 160px;
+
+
+
+    
+}
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    
+}
+    
+
+
+
+
+li{
+    display: inline-block;
+    margin: 10px;
+    /* padding-bottom: 3px; */
+    
+
+}
+.menu{
+    /* background-color: red; */
+    padding-left: 1050px;
+    padding-bottom: 15px;
+    background:rgba(0, 0,0, 3);
+    margin-top: 2px;
+
+}
+a{
+   color:white;
+   padding-top: 3px;
+   font-size: x-large;
+
+   
+}
+a:hover{
+    color: saddlebrown;
+    transition: all 0.4s ease 0s;
+}
+
+#con{
+    padding-left: 90px;
+
+}
+.img4{
+    background-image: url(800px-Gorée_-_Maison_des_esclaves,_cour.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1200px;
+    height: 900px;
+    /* margin: 0px auto; */
+    padding-left: 0px;
+
+}
+.conte{
+    padding-left: 130px;
+}
+body{
+    /* background-color:wheat; */
+}
+
+.content{
+    padding-left: 950px;
+}
+.logo{
+    padding-left: 50px;
+    transform: translateY(-90%);
+    position: absolute;
+
+    
+
+}
+footer{
+   transform: translateY(13vh);
+    background-color: #333;
+
+}
+#li1{
+    display: block;
+    margin: auto;
+}
+#ul1{
+padding-top: 20px;
+padding-left: 900px;
+font-size: xx-large;
+color: white;
+}
+.contact{
+    transform: translateY(-205px);
+    padding-left: 100px;
+    color: white;
+    font-size: xx-large;
+    position: absolute;
+}

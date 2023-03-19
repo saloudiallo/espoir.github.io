@@ -1,0 +1,186 @@
+.img{
+    background-image: url(img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1100px;
+    height: 452px;
+    margin: 0px auto;
+
+
+    
+}
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    
+}
+    
+
+
+
+
+li{
+    display: inline-block;
+    margin: 10px;
+    /* padding-bottom: 3px; */
+    
+
+}
+ul{
+    /* background-color: red; */
+    padding-left: 400px;
+    padding-bottom: 5px;
+
+
+}
+a{
+   color:white;
+   padding-top: 0px;
+   font-size: small; 
+}
+a:hover{
+    color: blueviolet;
+ transition: all 0.4s ease 0s;
+   
+
+}
+p{
+    color:white;
+    padding-left: 7px;
+}
+.content{
+    padding-left: 100px;
+    padding-top: 90px;
+    
+}
+
+#tour{
+    display: block;
+    margin: auto;
+    padding-top: 45px;
+    /* padding:500px ; */
+    width: 95vw;
+    height: 100vh;
+}
+.foot{
+    background-color:darkgreen;
+   padding: 15px;
+  margin-left: 17px;
+  margin-right: 17px;
+   
+ 
+  
+}
+.aT{
+    display: flex;
+    justify-content: center;
+    font-size: large;
+   
+
+}
+#statu{
+    display: block;
+    margin: auto;
+    padding-top: 50px;
+    width: 95vw;
+    height: 89vh;
+
+}
+.fooS{
+   width: 90vw;
+   height: 90vh;
+   padding-left: 20px;
+
+}
+.aS{
+    display: flex;
+    justify-content: center;
+
+}
+.cont{
+    background-color: darkgreen;
+    padding: 15px;
+    width: 92vw;
+}
+#pyramide{
+    display: block;
+    margin: auto;
+    padding-top: 35vh;
+width: 95vw;
+height: 95vh;
+}
+.aP{
+    display: flex;
+    justify-content: center;
+}
+.conp{
+    background-color: darkgreen;
+    padding: 15px;
+    margin-left :13px;
+    margin-right: 13px;
+
+}
+#île{
+   display: block;
+   margin:auto ;
+   width: 95vw;
+   height: 95vh;
+    padding-top: 13vh;
+ 
+
+}
+.aî{
+    display: flex;
+    justify-content: center;
+
+}
+.fooI{
+    background-color: darkgreen;
+    padding: 15px;
+    margin-left: 13px;
+    margin-right: 13px;
+}
+
+#getty{
+    display: block;
+    margin: auto;
+    padding-top:40px ;
+width: 95vw;
+height: 100vh;
+}
+.aM{
+    display: flex;
+    justify-content: center;
+
+}
+.fooD{
+    background-color: darkgreen;
+    padding: 15px;
+    margin-left: 13px;
+    margin-right: 13px;
+}
+body{
+    background-color:white;
+}
+#ul1{
+    background-color:#333;
+    padding-left: 400px;
+    padding-top: 10px;
+}
+h2{
+    color: white;
+}
+.contact{
+    padding-left: 20px;
+    color: white;
+    transform: translateY(-100px);
+    position:absolute;
+   
+}
+#li1{
+    display: block;
+    margin: auto;
+}
+
+
